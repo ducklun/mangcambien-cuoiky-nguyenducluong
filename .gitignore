@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cảnh báo: File dataset đã tăng cường thường lớn, không nên push lên github theo hướng dẫn nộp bài
+# Chỉ nên giữ cấu trúc thư mục rỗng hoặc push code sạch
+dataset/
+base_crops/
+
+# IDE configurations
+.vscode/
+.idea/
