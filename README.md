@@ -5,7 +5,7 @@ Tiểu luận thực hiện thiết kế, xây dựng và huấn luyện mô hì
 ## 1. Thành viên nhóm thực hiện
 *   **Họ và tên:** Nguyễn Đức Lương
 *   **MSSV:** N23DCCI044
-*   **Lớp:** D23CQC01-N
+*   **Lớp:** D23CQCI01-N
 *   **Học viện:** Học viện Công nghệ Bưu chính Viễn thông Cơ sở tại TP. Hồ Chí Minh
 *   **GVHD:** Hồ Nhựt Minh
 
